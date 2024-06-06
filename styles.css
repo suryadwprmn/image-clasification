@@ -1,0 +1,23 @@
+#choose-file {
+  height: 0;
+  width: 0;
+  overflow: hidden;
+}
+
+.wrapper {
+  background-color: #eeeeee;
+  background
+}
+
+body {
+  background-color: #f3f7ec;
+}
+
+footer{
+  background-color:black;
+  color:white;
+  height:70px;
+  width:100%;
+  margin-top:10px;
+}
+
